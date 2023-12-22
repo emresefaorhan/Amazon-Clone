@@ -1,2 +1,2 @@
 # Amazon-Clone
-<img src="./images/ScreenshotAmazon.jpeg>
+<img src="./images/ScreenshotAmazon.jpeg"/>
